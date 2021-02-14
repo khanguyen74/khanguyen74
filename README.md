@@ -4,8 +4,7 @@ I'm pursuing BS in Computer Science and I plan to gruduate this May. I'm experie
 
 I'm looking for an entry software engineer position. 
  
-[Linkedin](https://www.linkedin.com/in/kha-nguyen-724075188)
-
+ 
 <a href="https://www.linkedin.com/in/kha-nguyen-724075188/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <!--
 **khanguyen74/khanguyen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
