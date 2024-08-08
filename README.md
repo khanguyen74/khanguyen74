@@ -26,27 +26,27 @@ const kha = {
 ### Programming Languages
 
 <span align="left">
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/languages/javascript.svg" alt="javascript logo" height="40" width="40" /></a>&nbsp;
-  <img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/languages/typescript.svg" alt="typescript logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/languages/python.svg" alt="python logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/languages/sass.svg" alt="sass logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/languages/go.svg" alt="golang logo" height="40" width="40" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/javascript.svg" alt="javascript logo" height="40" width="40" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/typescript.svg" alt="typescript logo" height="40" width="40" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/python.svg" alt="python logo" height="40" width="40" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/sass.svg" alt="sass logo" height="40" width="40" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/go.svg" alt="golang logo" height="40" width="40" />&nbsp;
 
 </span>
 
 ### Frameworks
 
 <span align="left">
-<a target="_blank" href="https://nextjs.org/"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/frameworks/nextjs.svg" alt="nextjs logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://react.dev/"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/frameworks/react.svg" alt="reactjs logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://nestjs.com/"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/frameworks/nestjs.svg" alt="nestjs logo" height="40" width="40" /></a>&nbsp;
+<a target="_blank" href="https://nextjs.org/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/nextjs.svg" alt="nextjs logo" height="40" width="40" /></a>&nbsp;
+<a target="_blank" href="https://react.dev/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/react.svg" alt="reactjs logo" height="40" width="40" /></a>&nbsp;
+<a target="_blank" href="https://nestjs.com/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/nestjs.svg" alt="nestjs logo" height="40" width="40" /></a>&nbsp;
 </span>
 
 ### Text Editors
 
 <span>
-<a target="_blank" href="https://neovim.io/"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/editors/neovim.svg" alt="neovim logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://code.visualstudio.com/"><img align="center" src="https://github.com/khanguyen74/khanguyen74/blob/main/editors/vscode.svg" alt="visual code logo" height="40" width="40" /></a>&nbsp;
+<a target="_blank" href="https://neovim.io/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/editors/neovim.svg" alt="neovim logo" height="40" width="40" /></a>&nbsp;
+<a target="_blank" href="https://code.visualstudio.com/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/editors/vscode.svg" alt="visual code logo" height="40" width="40" /></a>&nbsp;
 </span>
 
 ### Stats
