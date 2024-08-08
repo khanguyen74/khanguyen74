@@ -2,7 +2,7 @@
 
 [![Linkedin: Kha Nguyen](https://img.shields.io/badge/-Kha_Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kha-nguyen-074)](https://www.linkedin.com/in/kha-nguyen-074/)
 [![Github: khanguyen74](https://img.shields.io/badge/-khanguyen74-grey?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/khanguyen74)](https://github.com/khanguyen74)
-[![Portfolio](https://img.shields.io/badge/-website-orange?style=flat-square&link=https://www.github.com/khanguyen74)](https://github.com/khanguyen74)
+[![Portfolio](https://img.shields.io/badge/-website-orange?style=flat-square&link=https://www.kha-nguyen.com)](https://www.kha-nguyen.com)
 ![GitHub Views](https://komarev.com/ghpvc/?username=khanguyen74)
 
 
