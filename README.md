@@ -6,48 +6,22 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=khanguyen74)
 
 
-### whoami
+Hi, I'm Kha! 👋
 
-```javascript
-const kha = {
-  askMeAbout: [ "web dev", "tech", "microfrontend" ],
-  languages: [ "Javascript", "Typescript", "Python", "HTML", "CSS", "Java" ],
-  frameworks: [ "Next.js", "React.js", "Nestjs" ],
-  pastExperiences: [
-    {
-      company: "Varis",
-      postion: "Software Development Engineer"
-    }
-  ],
-  architecture: [ "Microfrontend", "Single page application" ]
-}
-```
+I'm a full-stack developer passionate about building scalable and efficient web applications. I'm also deeply enthusiastic about home automation, always looking for new ways to integrate technology into everyday life. I'm currently pursuing a Master's degree in AI.
 
-### Programming Languages
+🔧 **Technologies I work with:**
+- **Languages:** JavaScript, TypeScript, Python, Golang, HTML, CSS, Java
+- **Frameworks:** Next.js, React.js, NestJS
 
-<span align="left">
-  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/javascript.svg" alt="javascript logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/typescript.svg" alt="typescript logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/python.svg" alt="python logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/sass.svg" alt="sass logo" height="40" width="40" />&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/languages/go.svg" alt="golang logo" height="40" width="40" />&nbsp;
+📚 **What I'm learning:**
+- AI and machine learning
 
-</span>
+🎸 **When I'm not coding, I'm:**
+- Experimenting with the latest tech trends
+- Automating my home to the point where even the coffee machine knows when I need a cup ☕
 
-### Frameworks
-
-<span align="left">
-<a target="_blank" href="https://nextjs.org/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/nextjs.svg" alt="nextjs logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://react.dev/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/react.svg" alt="reactjs logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://nestjs.com/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/frameworks/nestjs.svg" alt="nestjs logo" height="40" width="40" /></a>&nbsp;
-</span>
-
-### Text Editors
-
-<span>
-<a target="_blank" href="https://neovim.io/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/editors/neovim.svg" alt="neovim logo" height="40" width="40" /></a>&nbsp;
-<a target="_blank" href="https://code.visualstudio.com/"><img align="center" src="https://raw.githubusercontent.com/khanguyen74/khanguyen74/main/editors/vscode.svg" alt="visual code logo" height="40" width="40" /></a>&nbsp;
-</span>
+You can check out my projects at [khanguyen.com](https://khanguyen.com)!
 
 ### Stats
 
