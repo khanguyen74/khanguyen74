@@ -6,8 +6,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=khanguyen74)
 
 
-Hi, I'm Kha! 👋
-
 I'm a full-stack developer passionate about building scalable and efficient web applications. I'm also deeply enthusiastic about home automation, always looking for new ways to integrate technology into everyday life. I'm currently pursuing a Master's degree in AI.
 
 🔧 **Technologies I work with:**
