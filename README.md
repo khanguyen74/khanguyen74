@@ -17,7 +17,7 @@ I'm a full-stack developer passionate about building scalable and efficient web 
 📚 **What I'm learning:**
 - AI and machine learning
 
-🎸 **When I'm not coding, I'm:**
+🛠️ **When I'm not coding, I'm:**
 - Experimenting with the latest tech trends
 - Automating my home to the point where even the coffee machine knows when I need a cup ☕
 
