@@ -24,4 +24,4 @@ You can check out my projects at [khanguyen.com](https://khanguyen.com)!
 
 ### Stats
 
-[![Top Langs](https://khanguyen-github-readme-stats.vercel.app/api/top-langs/?username=khanguyen74)](https://github.com/khanguyen74)
+[![Top Langs](https://github-readme-stats-sand-three-63.vercel.app/api/top-langs/?username=khanguyen74)](https://github.com/khanguyen74)
