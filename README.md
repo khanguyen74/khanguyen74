@@ -7,14 +7,11 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=khanguyen74)
 
 
-I'm a full-stack developer passionate about building scalable and efficient web applications. I'm also deeply enthusiastic about home automation, always looking for new ways to integrate technology into everyday life. I'm currently pursuing a Master's degree in AI.
+I'm a full-stack developer passionate about building scalable and efficient web applications. I'm also deeply enthusiastic about home automation, always looking for new ways to integrate technology into everyday life.
 
 🔧 **Technologies I work with:**
 - **Languages:** JavaScript, TypeScript, Python, Golang, HTML, CSS, Java
 - **Frameworks:** Next.js, React.js, NestJS
-
-📚 **What I'm learning:**
-- AI and machine learning
 
 🛠️ **When I'm not coding, I'm:**
 - Experimenting with the latest tech trends
